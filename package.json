@@ -1,0 +1,17 @@
+{
+  "name": "un-estilo-unico",
+  "version": "1.0.0",
+  "description": "Api-rest-un-estilo-unico",
+  "main": "index.js",
+  "scripts": {
+    "test": "express, mongoose, nodemon, router-dom, cors "
+  },
+  "keywords": [
+    "class.express.commom"
+  ],
+  "author": "Heriberto, Ada, Sugheydi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
